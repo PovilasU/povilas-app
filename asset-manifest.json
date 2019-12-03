@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/povilas-app/static/css/main.b100e6da.chunk.css",
+    "main.js": "/povilas-app/static/js/main.0d524386.chunk.js",
+    "main.js.map": "/povilas-app/static/js/main.0d524386.chunk.js.map",
+    "runtime-main.js": "/povilas-app/static/js/runtime-main.fa4a83d6.js",
+    "runtime-main.js.map": "/povilas-app/static/js/runtime-main.fa4a83d6.js.map",
+    "static/js/2.c21e2b2e.chunk.js": "/povilas-app/static/js/2.c21e2b2e.chunk.js",
+    "static/js/2.c21e2b2e.chunk.js.map": "/povilas-app/static/js/2.c21e2b2e.chunk.js.map",
+    "index.html": "/povilas-app/index.html",
+    "precache-manifest.a45cb0fed79bb93c16a74036163f2a8d.js": "/povilas-app/precache-manifest.a45cb0fed79bb93c16a74036163f2a8d.js",
+    "service-worker.js": "/povilas-app/service-worker.js",
+    "static/css/main.b100e6da.chunk.css.map": "/povilas-app/static/css/main.b100e6da.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fa4a83d6.js",
+    "static/js/2.c21e2b2e.chunk.js",
+    "static/css/main.b100e6da.chunk.css",
+    "static/js/main.0d524386.chunk.js"
+  ]
+}
