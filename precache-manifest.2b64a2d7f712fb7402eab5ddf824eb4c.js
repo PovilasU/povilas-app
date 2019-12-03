@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "777e69efa90e9961d9bb552d9f07aae7",
+    "revision": "255beec1f2b747824c034ca7adb00d54",
     "url": "/povilas-app/index.html"
   },
   {
-    "revision": "f9ae70e21abb7f47d2c5",
+    "revision": "ff43002a083acc8ecb0d",
     "url": "/povilas-app/static/css/main.b100e6da.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/povilas-app/static/js/2.c21e2b2e.chunk.js"
   },
   {
-    "revision": "f9ae70e21abb7f47d2c5",
-    "url": "/povilas-app/static/js/main.0d524386.chunk.js"
+    "revision": "ff43002a083acc8ecb0d",
+    "url": "/povilas-app/static/js/main.ab7441dc.chunk.js"
   },
   {
     "revision": "7c6ab70b8b73936b140b",

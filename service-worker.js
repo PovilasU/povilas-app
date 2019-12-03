@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/povilas-app/precache-manifest.a45cb0fed79bb93c16a74036163f2a8d.js"
+  "/povilas-app/precache-manifest.2b64a2d7f712fb7402eab5ddf824eb4c.js"
 );
 
 self.addEventListener('message', (event) => {
