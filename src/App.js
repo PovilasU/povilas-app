@@ -6,6 +6,7 @@ function App() {
     <div className="App">
       <h1>Povilas Projects</h1>
       <h2>ReactJs playground project</h2>
+	  <p> Hello world</p>
     </div>
   );
 }
